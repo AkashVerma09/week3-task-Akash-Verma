@@ -22,7 +22,7 @@ Files:
   - `plots/scatter_study_vs_avg.png`
 
 ## How to Run
-### Option A: Notebook
+### Notebook
 1. Create and activate a virtual environment (optional but recommended).
 2. Install dependencies:
    ```bash
@@ -65,25 +65,3 @@ Menu options include:
 - Designing realistic **inconsistencies** and **missingness** to simulate real-world data
 - Ensuring robust imputations without leakage
 - Keeping visualizations and menu-driven flow simple and reliable
-
-## Repo Name (GitHub)
-Create a public repository named:
-```
-week3-task-akash-verma
-```
-Then push:
-```bash
-git init
-git add .
-git commit -m "Week 3 EDA: dataset, notebook, CLI, plots, README"
-git branch -M main
-git remote add origin https://github.com/<your-username>/week3-task-akash-verma.git
-git push -u origin main
-```
-
-## Requirements
-See `requirements.txt`.
-
----
-
-Happy analyzing!
