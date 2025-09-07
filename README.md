@@ -34,10 +34,6 @@ Files:
    ```
 4. Open `EDA_Student_Performance.ipynb` and run cells top-to-bottom.
 
-### Option B: Console Menu (CLI)
-```bash
-python eda.py
-```
 Menu options include:
 - Basic info (head, dtypes, missing counts)
 - Standardize categorical values (Gender/City/Passed)
